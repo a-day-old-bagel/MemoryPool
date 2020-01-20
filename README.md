@@ -1,6 +1,6 @@
-This repository is no longer maintained.
+This Fork
 ==========
-I no longer program in C++ or follow the standard, so I won't be updating this repository in the future. Seeing that only a few minor [issues](https://github.com/cacay/MemoryPool/issues) have come up over many years, I consider MemoryPool stable and still a good starting point for your own implementation. Alternatively, you can always use one of the numerous [forks](https://github.com/cacay/MemoryPool/network).
+This fork discards everything but the C++11 version of the software, and makes it immediately suitable for use as a git submodule in a CMake-powered build environment.
 
 Memory Pool
 ==========
@@ -112,7 +112,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Contact Me
+Contact Me (Original Author)
 -------------------------
 I am open to any type of suggestions, bug reports, or requests for the code. You can also contact me for any questions. Either email me at coskuacay@gmail.com or visit my [website] (http://www.coskuacay.com) for more information.
 

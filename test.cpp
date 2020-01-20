@@ -37,7 +37,7 @@
 
 #include <iostream>
 #include <cassert>
-#include <time.h>
+#include <ctime>
 #include <vector>
 
 #include "MemoryPool.h"
